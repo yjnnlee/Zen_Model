@@ -20,6 +20,6 @@ Each .ttl file corresponds to a specific phase of the case:
 
 report.ttl : Models the initial hotline report, including agent and timestamps 
 investigation.ttl : Links the report to an official ICAC investigation 
-undercover_plan.ttl`: Defines a 3-phase undercover task force plan 
+undercover_plan.ttl: Defines a 3-phase undercover task force plan 
 forensics.ttl : Describes forensic tools and digital artifacts analyzed 
 findings.ttl : Summarizes technical findings from forensic analysis 
